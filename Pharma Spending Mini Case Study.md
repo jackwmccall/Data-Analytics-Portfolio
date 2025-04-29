@@ -1,4 +1,4 @@
-# Pharmaceutical Drug Spending by Country -Mini Case Study-
+# -Mini SQL Case Study-Pharmaceutical Drug Spending by Country
 
 ### 1. How many distinct countries exist in the dataset?
 
