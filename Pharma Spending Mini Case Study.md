@@ -1,5 +1,9 @@
 # -Mini SQL Case Study- Pharmaceutical Drug Spending by Country
 
+For the following mini case study I will be looking at a dataset provided from the Organisation for Economic Cooperation and Development (OECD). This specific dataset covers pharmaceutical drug spending by country including information such as total spent per year, percent makeup of GDP, and USD spent per capita.
+
+***
+
 ### 1. How many distinct countries exist in the dataset?
 
 ````sql
