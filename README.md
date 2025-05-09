@@ -1,6 +1,6 @@
 # 👋 Welcome!
 
-Hello and welcome to my data analytics portfolio. The projects listed below have all been formatted utilizing markdown in order to maintain consistency. They have also been designed as "walkthroughs" which allows me to explain my reasoning and thought processes throughout the projects. 
+Hello and welcome to my data analytics portfolio! Below you can find a list of projects I have completed along with the tools I used for them and a brief description. The projects have all been formatted utilizing markdown in order to maintain consistency. 
 
 | Project Link | Tools | Project Description |
 |---|---|---|
